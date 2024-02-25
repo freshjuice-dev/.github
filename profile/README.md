@@ -1,1 +1,1 @@
-# FreshJuice Dev
+# 🍹 FreshJuice
