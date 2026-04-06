@@ -1,15 +1,25 @@
-# 🍊 FreshJuice
+# 🍊 FreshJuice     
 
-FreshJuice is a creative dev studio from sunny Spain ☀️ specializing in **HubSpot CMS themes, custom modules, and open-source tools**.  
-We help marketing teams and businesses build websites that are **fast, SEO-friendly, and designed to stand out**.  
+**We don't ship products. We ship standards.**                                                                                             
 
-Our philosophy is simple: keep things fresh, lightweight, and effective.  
-From modern themes to smart interactive modules, FreshJuice delivers solutions that combine **clean code, modern design, and marketing know-how**.  
-
-✨ **What we do**
-- HubSpot CMS themes and templates  
-- Custom interactive modules  
-- Performance optimization (lazy loading, privacy mode, SEO schema)  
-- Open-source tools for the HubSpot community  
-
-Discover the essence of FreshJuice — refreshing digital experiences that help your brand shine online. 🍊
+Developer tools, HubSpot themes, desktop apps, browser extensions. We build what the industry won't. Then we ship it.                      
+                                                        
+### What we ship                                                                                                                           
+                                                        
+- **Free developer tools** - SEO analyzers, link checkers, llms.txt generators. No signup. No paywall.                                     
+- **HubSpot themes** - open source, Tailwind CSS, zero lock-in. The theme that costs $0 and outperforms the ones that don't.
+- **Desktop apps** - privacy-first, offline-first. Your files never leave your machine.                                                    
+- **Starters & libraries** - Eleventy, Alpine.js, Tailwind CSS. Production-ready. No asterisks.
+                                                                                                                                         
+### The Zero Doctrine                                                                                                                      
+                                                                                                                                         
+- Zero marketing emails                                                                                                                    
+- Zero dark patterns                                      
+- Zero lock-in
+- Zero hidden agendas                                                                                                                      
+- Zero bloat
+- Zero fluff                                                                                                                               
+                                                                                                                                         
+Read our code. We're not embarrassed by any of it.                                                                                         
+                                                                                                                                         
+🔗 [freshjuice.dev](https://freshjuice.dev) · [The Zero Doctrine](https://freshjuice.dev/zero/) · [Blog](https://freshjuice.dev/blog/)
